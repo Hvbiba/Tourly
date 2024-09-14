@@ -101,7 +101,7 @@ footer {
     width: 110px;border-radius: 10px; margin: 0px;
   }
   .main-div img{
-    height: 200px; 
+    height: 180px; 
   }
   .contact-us{
     display: flex; flex-direction: column; gap: 0px;
