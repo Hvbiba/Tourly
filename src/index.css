@@ -98,7 +98,7 @@ footer {
     flex-direction: column; 
   }
   #gallery img {
-    width: 120px;border-radius: 10px; margin: 0px;
+    width: 110px;border-radius: 10px; margin: 0px;
   }
   .main-div img{
     height: 200px; 
